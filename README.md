@@ -12,11 +12,11 @@ experiments on correlated qubit errors.
 ### Videos
 [![Project Demo Video](http://img.youtube.com/vi/GJxfOgFRQK0/0.jpg)](http://www.youtube.com/watch?v=GJxfOgFRQK0 "Brief Project Demonstration")
 
-### Presentations
 [![NYSSEF Video Presentation](http://img.youtube.com/vi/GoSZTX5BhKQ/0.jpg)](http://www.youtube.com/watch?v=GoSZTX5BhKQ "Identification of Correlated Qubit Errors for Quantum Computing Error Correction")
 
-[NYSSEF Powerpoint]()
-https://youtu.be/GoSZTX5BhKQ
-[ISEF Powerpoint]()
+### Presentations
+[NYSSEF Slides](https://docs.google.com/presentation/d/1LA4y14ouTObHiDHLjWEkSwvhkcFdKpxxPT4DFjWx7oY/edit?usp=drive_link)
+
+[ISEF Slides](https://docs.google.com/presentation/d/1bORXn0QA4W0HPE6WbvE2_ObXKlqQtRLanCo79T1Trzc/edit?usp=drive_link)
 
 [Project at ISEF Library ](https://partner.projectboard.world/isef/project/55915)
